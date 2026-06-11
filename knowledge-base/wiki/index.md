@@ -1,6 +1,7 @@
 # Second Brain — Index
 
 > Navigation only. All content pages live in `raw/pages/`. This file is the table of contents.
+> Focus: AI company (SaaS, Digital Marketing, Brand Building, AI Automation, Vibe Coding)
 > Updated automatically on every ingest and Dream Sequence.
 
 ---
@@ -13,40 +14,54 @@
 
 ---
 
+## Core Business Pillars
+
+| Page | Summary | Added |
+|---|---|---|
+| [[ai-saas]] | AI SaaS market, pricing models, business model evolution in 2026 | 2026-06-11 |
+| [[digital-marketing]] | Growth strategies for AI/SaaS — AEO, PLG, ecosystem-led, automation | 2026-06-11 |
+| [[brand-building]] | Positioning, differentiation, and visual identity for AI companies | 2026-06-11 |
+| [[ai-automation]] | Zapier/Make/n8n comparison, client use cases, selling automation services | 2026-06-11 |
+| [[vibe-coding]] | AI-assisted development tools, delivering vibe coding as a service | 2026-06-11 |
+
+---
+
+## Metrics & Frameworks
+
+| Page | Summary | Added |
+|---|---|---|
+| [[saas-metrics]] | MRR, ARR, CAC, LTV, churn, NRR — definitions and targets | 2026-06-11 |
+
+---
+
 ## Topics
 
-*(Empty — add your first source with "add this" to populate)*
+*(Add topic pages here as they're ingested)*
 
 ---
 
-## Entities (People, Places, Organizations)
+## Entities (People, Organizations)
 
-*(Empty)*
-
----
-
-## Concepts & Frameworks
-
-*(Empty)*
+*(Add entity pages here as they're ingested)*
 
 ---
 
 ## Source Summaries
 
-*(Empty — each ingested source gets a summary page here)*
+*(Each ingested source gets a summary page here)*
 
 ---
 
 ## Syntheses & Query Answers
 
-*(Empty — valuable query answers filed back with "save that" appear here)*
+*(Valuable query answers filed back with "save that" appear here)*
 
 ---
 
 ## Session Notes
 
-*(Empty — saved chat takeaways filed with "save this session" appear here)*
+*(Saved chat takeaways filed with "save this session" appear here)*
 
 ---
 
-*Last updated: 2026-06-11 | Total pages: 0*
+*Last updated: 2026-06-11 | Total pages: 6*
